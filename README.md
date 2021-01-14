@@ -1,8 +1,8 @@
-# TODO лист
+# TODO лист с использованием LocalStorage
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Ссылка на проект](http://todo.viil.ru/)
 
-## Available Scripts
+## Стек: React, Redux, Bootstrap 
 
 In the project directory, you can run:
 
